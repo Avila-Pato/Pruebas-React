@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 30px;
+    justify-content: center;
+    
+}
+
+/* flex-wrap permite que cuando el 
+tamañoo de la tarjete supere el tamaño maximo que le di  
+coloque  las tarjetas abajo  */

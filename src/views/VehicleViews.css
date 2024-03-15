@@ -1,0 +1,9 @@
+.VehicleViews{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.VehicleViews img {
+    display: block;
+    max-width: 100%;
+}
